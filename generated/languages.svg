@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #dea584;width: 62.806%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 18.686%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 9.690%;" class="progress-item"></span><span style="background-color: #563d7c;width: 2.696%;" class="progress-item"></span><span style="background-color: #3572A5;width: 2.033%;" class="progress-item"></span><span style="background-color: #41b883;width: 1.398%;" class="progress-item"></span><span style="background-color: #e34c26;width: 1.306%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 0.912%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.391%;" class="progress-item"></span><span style="background-color: #c42727;width: 0.082%;" class="progress-item"></span>
+<span style="background-color: #dea584;width: 62.800%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 18.689%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 9.691%;" class="progress-item"></span><span style="background-color: #563d7c;width: 2.696%;" class="progress-item"></span><span style="background-color: #3572A5;width: 2.034%;" class="progress-item"></span><span style="background-color: #41b883;width: 1.398%;" class="progress-item"></span><span style="background-color: #e34c26;width: 1.306%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 0.912%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.391%;" class="progress-item"></span><span style="background-color: #c42727;width: 0.082%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Rust</span>
-<span class="percent">62.81%</span>
+<span class="percent">62.80%</span>
 </li>
 
 
